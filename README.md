@@ -14,18 +14,17 @@ Currently pursuing **MCA at St. Joseph's College**, I love building beautiful an
 
 ## 🖼️ Preview
 
-### 🧑‍💻 Hero & About Section  
+### 🧑‍💻 Hero & About Section
 ![Hero and About Section](./ScreenShots/Screenshot%202025-07-07%20220151.png)
 
-### 🧰 Skills Display  
+### 🧰 Skills Display
 ![Skills Section](./ScreenShots/Screenshot%202025-07-07%20220311.png)
 
-### 📈 Skill Progress Bars  
+### 📈 Skill Progress Bars
 ![Skill Progress Bars](./ScreenShots/Screenshot%202025-07-07%20220841.png)
 
-### 📞 Contact Section  
+### 📞 Contact Section
 ![Contact Section](./ScreenShots/Screenshot%202025-07-07%20220906.png)
-
 
 ---
 
@@ -47,9 +46,6 @@ Currently pursuing **MCA at St. Joseph's College**, I love building beautiful an
 - **JavaScript**
 - **React**
 - **Bootstrap**
-- **React Native**
-- **SQL**
-- **Python**
 - **Git / GitHub**
 
 ---
@@ -59,7 +55,7 @@ Currently pursuing **MCA at St. Joseph's College**, I love building beautiful an
 - 📞 Phone: +91 9344686494  
 - 📧 Email: hello@loki.dev  
 - 📍 Location: Trichy, Tamil Nadu  
-- 🔗 LinkedIn, GitHub, X (Twitter) links in the footer
+- 🔗 Social: LinkedIn, GitHub, X (Twitter) — *available in the footer*
 
 ---
 
@@ -74,4 +70,3 @@ Frontend Developer | React Native Enthusiast
 ## 📄 License
 
 This project is open-source and free to use 🚀
-
