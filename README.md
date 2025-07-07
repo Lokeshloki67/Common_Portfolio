@@ -14,17 +14,9 @@ Currently pursuing **MCA at St. Joseph's College**, I love building beautiful an
 
 ## 🖼️ Preview
 
-### 🧑‍💻 Hero & About Section
-![Hero and About Section](./ScreenShots/Screenshot%202025-07-07%20220151.png)
-
-### 🧰 Skills Display
-![Skills Section](./ScreenShots/Screenshot%202025-07-07%20220311.png)
-
-### 📈 Skill Progress Bars
-![Skill Progress Bars](./ScreenShots/Screenshot%202025-07-07%20220841.png)
 
 ### 📞 Contact Section
-![Contact Section](./ScreenShots/Screenshot%202025-07-07%20220906.png)
+![Skills Section](/Screenshot%202025-07-07%20220311.png)
 
 ---
 
