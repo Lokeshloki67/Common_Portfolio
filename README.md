@@ -15,18 +15,17 @@ Currently pursuing **MCA at St. Joseph's College**, I love building beautiful an
 ## 🖼️ Preview
 
 ### 🧑‍💻 Hero & About Section  
-![Hero and About Section](./assets/ScreenShot/Screenshot%202025-07-07%20220151.png)
+![Hero and About Section](./ScreenShots/Screenshot%202025-07-07%20220151.png)
 
 ### 🧰 Skills Display  
-![Skills Section](./assets/Screenshot%202025-07-07%20220311.png)
+![Skills Section](./ScreenShots/Screenshot%202025-07-07%20220311.png)
 
 ### 📈 Skill Progress Bars  
-![Skill Progress Bars](./assets/Screenshot%202025-07-07%20220841.png)
+![Skill Progress Bars](./ScreenShots/Screenshot%202025-07-07%20220841.png)
 
 ### 📞 Contact Section  
-![Contact Section](./assets/Screenshot%202025-07-07%20220906.png)
+![Contact Section](./ScreenShots/Screenshot%202025-07-07%20220906.png)
 
-> 📁 *Make sure these images are placed inside an `assets/` folder in your repo.*
 
 ---
 
